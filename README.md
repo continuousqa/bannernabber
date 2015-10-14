@@ -5,9 +5,12 @@ Banner Nabber is a simple python3 script that scans a target and tries to grab t
 The script also sends some data in to try and check if HTTP is allowed on the port.
 
 Usage:
-    python3 bannernabber.py <host> <start port> <end port>
+    python3 bannernabber.py [host] [start port] [end port]
+
     OR
+
     python3 bannernabber.py
-    [answer the questions] 
+    
+    [answer the questions]
 
 
